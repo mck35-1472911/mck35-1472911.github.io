@@ -1,28 +1,6 @@
 body{
-animation: colorchange 50s; 
-    -webkit-animation: colorchange 50s; /* Chrome and Safari */ 
 background-image: URL(dark_wood.png);  
-
 }
-
-@keyframes colorchange
-{
-    0%   {background: red;}
-    25%  {background: yellow;}
-    50%  {background: blue;}
-    75%  {background: green;}
-    100% {background: red;}
-}
-
-@-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
-{
-    0%   {background: red;}
-    25%  {background: yellow;}
-    50%  {background: blue;}
-75%  {background: green;}
-100% {background: red;}
-}
-
 
 p{
 font-weight: bold;
