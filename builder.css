@@ -1,0 +1,66 @@
+body{
+        background-color: black;
+}
+    
+    p{
+        font-weight: bold;
+        font-family: "Helvetica";
+    }
+    h2{
+        color: white;
+        text-align: center;
+        font-size: 50px;
+        font: verdana;
+        
+    }
+    
+
+    input{
+        border-radius: 25px;
+    }
+    textarea{
+        border-radius: 25px;
+    }
+    
+    field{
+        color: black;
+        border-radius: 25px;
+    }
+
+    table{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    label{
+        border-radius: 25px;
+    }
+
+    legend{
+        color: white;
+        font: Helvetica;
+        font-weight: bold;
+        font-size: 40px;
+        border-radius: 25px;
+
+    }
+    
+    button{
+        
+    }
+
+    li{
+        list-style-type: none;
+        padding-left: 0px;
+    }
+    
+    div{
+        background-color: rgb(65, 80, 213);   
+        border-radius: 25px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+        border: solid 1px white;
+    }
+ 
